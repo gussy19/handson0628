@@ -1,2 +1,2 @@
 テキスト入力
-dev branchだよ
+dev branchだよ devで追記
